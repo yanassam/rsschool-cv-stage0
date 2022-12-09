@@ -58,4 +58,3 @@ assortment
 [df1]: <https://snu.edu.ua/index.php/en/home-english/>
 [df2]: <http://artngraphics.com/>
 [df3]: <http://maup.com.ua/eng/index.html>
-
